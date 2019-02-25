@@ -17,7 +17,7 @@
         @csrf
         <div class="block block-themed block-rounded block-shadow">
             <div class="block-header bg-gd-emerald">
-                <h3 class="block-title">Teacher {{ __('Registration') }}</h3>
+                <h3 class="block-title">Student {{ __('Registration') }}</h3>
                 <div class="block-options">
                     <button type="button" class="btn-block-option">
                         <i class="si si-wrench"></i>
